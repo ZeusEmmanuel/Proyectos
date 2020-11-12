@@ -1,2 +1,4 @@
 # Proyectos
-Con fin de almacenamientos de proyectos importantes o no, compartimiento de datos entre otras cosas.
+
+Proyecto De RoDe © 2020 Organizado por AprendeMas~Code © 2019
+
